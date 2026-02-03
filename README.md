@@ -1,12 +1,12 @@
 # SREEVARSINI G B | At A Glance ⭐
 
-Civil Engineering graduate with a strong focus on continuous learning and skill development. Developed a strong interest in Data Science with hands-on exposure to Data Analytics and related fields. Motivated and adaptable, eager to apply my analytical skills, add value, and grow in collaborative environments.
+Civil Engineering graduate with a strong focus on continuous learning and skill development. Developed a strong interest in Data Science with hands-on exposure to Data Analytics and related fields. Motivated and adaptable, eager to apply my techical skills, add value, and grow in collaborative environments.
 
 ### 💻 Technical Skills
 
-**Programming & Analysis:** Python, SQL, Pandas  
-**Visualization:** Tableau, Power BI, Excel  
-**Foundations:** Statistics, Machine Learning (Basics)
+** • Programming & Analysis:** Python, SQL, Pandas  
+** • Visualization:** Tableau, Power BI, Excel  
+** • Foundations:** Statistics, Machine Learning (Basics)
 
 ### 📬 Reach Me Out
 
