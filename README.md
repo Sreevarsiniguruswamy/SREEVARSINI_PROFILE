@@ -8,7 +8,7 @@ Civil Engineering graduate with a strong focus on continuous learning and skill 
 
 **• Programming & Analysis:** Python, SQL, Pandas  
 **• Visualization:** Tableau, Power BI, Excel  
-**• Foundations:** Statistics, Machine Learning (Basics)
+**• Foundations:** Statistics, Machine Learning
 
 ### 📬 Reach Me Out
 
